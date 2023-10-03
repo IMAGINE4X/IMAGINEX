@@ -1,0 +1,8 @@
+How to create a python virtual environment :
+
+Create a Virtual Environment:
+For Windows (using Command Prompt): python -m venv venv
+
+
+Activate the Virtual Environment:
+On Windows (using Command Prompt): venv\Scripts\activate
